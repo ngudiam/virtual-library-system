@@ -15,4 +15,4 @@ The Student Task Manager is a project designed to help students organize their s
 
 - ngudiam (Repository Creator)
 -Brionna Morris 
-- Brionna Morris
+-Mubarak Russell
